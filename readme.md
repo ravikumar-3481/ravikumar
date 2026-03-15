@@ -473,6 +473,10 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
   <img src="https://ghchart.rshah.org/39d353/ravikumar-3481" alt="GitHub Contribution Chart" width="100%" style="background-color:#0000;" /></div>
 
 <br/>
+<div align="center">
+  <h3>🧊 3D Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title=GitHub%20Contribution%20Calendar" width="100%" alt="GitHub Contribution Calendar" /></div>
+  <br/>
 
 <!-- ANIMATED CONTRIBUTION SNAKE -->
 <div align="center">
