@@ -42,22 +42,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [About Me](#-about-me)
-- [What I Do](#-what-i-do)
-- [Education](#-education)
-- [Hard Skills](#-hard-skills--technical-expertise)
-- [Soft Skills](#-soft-skills)
-- [Full Tech Stack](#-full-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [Professional Experience](#-professional-experience)
-- [GitHub Stats](#-github-stats)
-- [Achievements](#-achievements--highlights)
-- [Connect with Me](#-lets-connect)
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
