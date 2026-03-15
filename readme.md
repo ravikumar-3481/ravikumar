@@ -25,8 +25,6 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vishwakarma67)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle)
-&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-ravivish968@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravivish968@gmail.com)
 &nbsp;
 [![Resume](https://img.shields.io/badge/📄%20View%20Resume-Download-0F7B8C?style=for-the-badge)](https://your-resume-link.com)
@@ -525,13 +523,10 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-vishwakarma67)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-twitter-handle)
-&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravivish968@gmail.com)
 &nbsp;
 [![Resume](https://img.shields.io/badge/📄%20Resume-Download-0F7B8C?style=for-the-badge)](https://your-resume-link.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/📱%20WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916260013481)
 
 </div>
 
