@@ -470,7 +470,7 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <!-- GITHUB ISOMETRIC 3D CONTRIBUTION GRAPH -->
 <div align="center">
   <h3>🧊 3D Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/39d353/ravikumar-3481" alt="GitHub Contribution Chart" width="100%" style="background-color:#0d1117;" /></div>
+  <img src="https://ghchart.rshah.org/39d353/ravikumar-3481" alt="GitHub Contribution Chart" width="100%" style="background-color:#0000;" /></div>
 
 <br/>
 
