@@ -60,12 +60,12 @@
 
 ### 🪪 Personal Info
 
-###🙋 Name **Ravi Kumar Vishwakarma** <br/>
-###📍 Location **Satna, Madhya Pradesh, India** <br/>
-###🎓 EducationB.Tech CSE — AI & Data Science** *(2025 – 2029)* <br/>
-###🌍 Open To **Internships · Freelance Projects · Global Opportunities** <br/>
-###📧 Email **ravivish968@gmail.com** <br/>
-##🌐 Portfolio **[personal Portfolio](https://profileravi.netlify.app)** <br/>
+### 🙋 Name **Ravi Kumar Vishwakarma** <br/>
+### 📍 Location **Satna, Madhya Pradesh, India** <br/>
+### 🎓 EducationB.Tech CSE — AI & Data Science** *(2025 – 2029)* <br/>
+### 🌍 Open To **Internships · Freelance Projects · Global Opportunities** <br/>
+### 📧 Email **ravivish968@gmail.com** <br/>
+##  🌐  Portfolio **[personal Portfolio](https://profileravi.netlify.app)** <br/>
 
 ---
 
