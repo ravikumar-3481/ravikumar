@@ -52,10 +52,6 @@
 
 ## 👋 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=0F7B8C&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer+%7C+NLP+Specialist+%7C+Agentic+AI+Developer;🌐+Full-Stack+Developer+%7C+AI+Workflow+Engineer;✍️+Prompt+Engineer+%7C+ML+Architect;📍+Satna%2C+Madhya+Pradesh%2C+India" alt="About Typing" />
-</div>
-
 <br/>
 
 ### 🪪 Personal Info
@@ -73,7 +69,7 @@
 | 📍 **Location** | Satna, Madhya Pradesh, India |
 | 🌍 **Open To** | Internships · Freelance Projects · Global Opportunities |
 | 📧 **Email** | ravivish968@gmail.com |
-| 🌐 **Portfolio** | [profileravi.netlify.app](https://profileravi.netlify.app) |
+| 🌐 **Portfolio** | [Visit Portfolio](https://profileravi.netlify.app) |
 
 </div>
 
@@ -209,7 +205,7 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <!-- GITHUB ISOMETRIC 3D CONTRIBUTION GRAPH -->
 
 <div align="center">
-  <h3>🧊 3D Contribution Graph</h3>
+  <h3>📈 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title=GitHub%20Contribution%20Calendar" width="100%" alt="GitHub Contribution Calendar" /></div>
   <br/>
 
