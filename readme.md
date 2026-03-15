@@ -374,19 +374,20 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <!--                        GITHUB STATS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance (Statistics, Streak, Trophies)
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=17A8B8&icon_color=1B3A6B&text_color=ffffff&rank_icon=github" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=17A8B8&fire=FF6F00&currStreakLabel=17A8B8" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false" alt="Ravi's GitHub Streak">
 
-<br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Ravi's GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=17A8B8&text_color=ffffff&langs_count=8" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
+  <img src="https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
+
 
 ---
 
@@ -416,19 +417,6 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📍 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🌐 **Portfolio** | [profileravi.netlify.app](https://profileravi.netlify.app) |
-| 💼 **LinkedIn** | [ravi-vishwakarma67](https://www.linkedin.com/in/ravi-vishwakarma67) |
-| 🐦 **Twitter / X** | [@your-twitter-handle](https://x.com/your-twitter-handle) |
-| 📧 **Email** | [ravivish968@gmail.com](mailto:ravivish968@gmail.com) |
-| 📱 **Phone** | +91 6260013481 |
-| 📄 **Resume** | [View / Download](https://your-resume-link.com) |
-
-</div>
 
 <br/>
 
