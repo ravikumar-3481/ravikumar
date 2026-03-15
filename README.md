@@ -65,24 +65,52 @@
 
 <br/>
 
-🙋 **Name:** Ravi Kumar Vishwakarma
-📍 **Location:** Satna, Madhya Pradesh, India
-🎓 **Education:** B.Tech CSE — AI & Data Science *(2025 – 2029)*
-🌍 **Open To:** Internships · Freelance Projects · Global Opportunities
+### 🪪 Personal Info
 
-<br/>
+| | |
+|---|---|
+| 🙋 **Name** | Ravi Kumar Vishwakarma |
+| 📍 **Location** | Satna, Madhya Pradesh, India |
+| 🎓 **Education** | B.Tech CSE — AI & Data Science *(2025 – 2029)* |
+| 🌍 **Open To** | Internships · Freelance Projects · Global Opportunities |
+| 📧 **Email** | ravivish968@gmail.com |
+| 🌐 **Portfolio** | [profileravi.netlify.app](https://profileravi.netlify.app) |
 
-**What I do:**
+---
+
+### 💡 Who I Am
 
 I'm an **AI Engineer & Full-Stack Developer** passionate about building systems that don't just process data — they *understand* it. My work sits at the intersection of **Natural Language Processing**, **Agentic AI**, **Predictive Modeling**, and **User-Centric Product Design**.
 
 From engineering pipelines that handle **50,000+ records** to deploying **Transformer-based NLP models** that decode financial sentiment in real time — I build AI that is fast, accurate, and production-ready.
 
-**Current Focus:** `LLMs` · `NLP` · `Agentic AI` · `Predictive Modeling` · `Data Pipelines`
-
-**My Roles:** AI/ML Engineer · Agentic AI Developer · Full-Stack Developer · NLP Specialist · AI Workflow Engineer · Prompt Engineer
-
 > *"The goal isn't to show data. It's to reduce the time-to-insight."*
+
+---
+
+### 🎯 Current Focus
+
+> Building production-grade AI-powered financial intelligence platforms that bridge the gap between raw data and real decisions.
+
+**Core Areas:**
+
+- 🧠 **AI & NLP** — Transformer models, FinBERT, RAG pipelines, Agentic AI
+- 📊 **Data Engineering** — Real-time pipelines, 50,000+ record processing
+- 🌐 **Full-Stack Development** — React, FastAPI, Streamlit, REST APIs
+- ✍️ **Prompt Engineering** — Chain-of-Thought, Few-Shot, LLM behavior tuning
+
+---
+
+### 🏷️ My Roles
+
+| Role | Description |
+|------|-------------|
+| 🤖 **AI / ML Engineer** | Design and deploy intelligent models for real-world use cases |
+| 🧠 **Agentic AI Developer** | Build autonomous AI agents using LangChain & MCP |
+| 🌐 **Full-Stack Developer** | End-to-end web apps with clean, modern UI/UX |
+| 🔬 **NLP Specialist** | FinBERT · BERT · DistilBART · MNLI · Sentiment Analysis |
+| ⚙️ **AI Workflow Engineer** | Design scalable end-to-end AI data pipelines |
+| ✍️ **Prompt Engineer** | Craft precise prompts that maximize LLM performance |
 
 ---
 
@@ -369,16 +397,56 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 
 ## 📊 GitHub Performance (Statistics, Streak, Trophies)
 
+<!-- TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
+</div>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false" alt="Ravi's GitHub Streak">
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Ravi's GitHub Stats">
+<!-- STATS + STREAK SIDE BY SIDE -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Ravi's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false" alt="Ravi's GitHub Streak" width="48%" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+<br/>
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&theme=react-dark&bg_color=0D1117&color=17A8B8&line=0F7B8C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- TOP CONTRIBUTED REPOS -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="60%" />
+</div>
+
+<br/>
+
+<!-- GITHUB PROFILE SUMMARY CARDS -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikumar-3481&theme=github_dark" alt="Profile Summary" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravikumar-3481&theme=github_dark" alt="Repos Per Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravikumar-3481&theme=github_dark" alt="Most Commit Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravikumar-3481&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
 </div>
 
 
@@ -427,13 +495,6 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/📱%20WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916260013481)
 
-</div>
-
----
-
-<!-- AI ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&theme=react-dark&bg_color=0D1117&color=17A8B8&line=0F7B8C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
