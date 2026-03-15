@@ -15,13 +15,6 @@
 <br/>
 
 <!-- AI DECORATIVE ELEMENTS — ANIMATED SNAKE + ACTIVITY GRAPH -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
 <br/>
 
@@ -67,14 +60,12 @@
 
 ### 🪪 Personal Info
 
-| | |
-|---|---|
-| 🙋 **Name** | Ravi Kumar Vishwakarma |
-| 📍 **Location** | Satna, Madhya Pradesh, India |
-| 🎓 **Education** | B.Tech CSE — AI & Data Science *(2025 – 2029)* |
-| 🌍 **Open To** | Internships · Freelance Projects · Global Opportunities |
-| 📧 **Email** | ravivish968@gmail.com |
-| 🌐 **Portfolio** | [profileravi.netlify.app](https://profileravi.netlify.app) |
+###🙋 Name **Ravi Kumar Vishwakarma**
+###📍 Location **Satna, Madhya Pradesh, India**
+###🎓 EducationB.Tech CSE — AI & Data Science** *(2025 – 2029)*
+###🌍 Open To **Internships · Freelance Projects · Global Opportunities**
+###📧 Email **ravivish968@gmail.com**
+##🌐 Portfolio **[personal Portfolio](https://profileravi.netlify.app)**
 
 ---
 
@@ -449,7 +440,16 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravikumar-3481&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
 </div>
 
+<br/>
+<br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
