@@ -14,6 +14,10 @@
 
 <br/>
 
+<!-- AI DECORATIVE ELEMENTS — ANIMATED SNAKE + ACTIVITY GRAPH -->
+
+<br/>
+
 <!-- TOP SOCIAL BADGES -->
 <div align="center">
 
@@ -48,32 +52,66 @@
 
 ## 👋 About Me
 
-```python
-ravi = {
-    "name"       : "Ravi Kumar Vishwakarma",
-    "location"   : "Satna, Madhya Pradesh, India 📍",
-    "education"  : "B.Tech CSE — AI & Data Science (2025–2029)",
-    "roles"      : [
-                     "AI / ML Engineer",
-                     "Agentic AI Developer",
-                     "Full-Stack Developer",
-                     "NLP Specialist",
-                     "AI Workflow Engineer",
-                     "Prompt Engineer"
-                   ],
-    "focus"      : ["LLMs", "NLP", "Predictive Modeling", "Agentic AI", "Data Pipelines"],
-    "currently"  : "Building production-grade AI-powered financial intelligence platforms",
-    "goal"       : "Solving real-world problems with fast, accurate, and scalable AI",
-    "open_to"    : "Internships, Freelance Projects & Global Opportunities 🌍",
-    "fun_fact"   : "I turn market noise into actionable insights 📈"
-}
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=0F7B8C&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer+%7C+NLP+Specialist+%7C+Agentic+AI+Developer;🌐+Full-Stack+Developer+%7C+AI+Workflow+Engineer;✍️+Prompt+Engineer+%7C+ML+Architect;📍+Satna%2C+Madhya+Pradesh%2C+India" alt="About Typing" />
+</div>
+
+<br/>
+
+### 🪪 Personal Info
+
+<div align="center">
+
+<h1>🙋 Ravi Kumar Vishwakarma</h1>
+
+<h3>🎓 B.Tech CSE — Artificial Intelligence & Data Science &nbsp;|&nbsp; <em>2025 – 2029</em></h3>
+
+<br/>
+
+| | |
+|:---|:---|
+| 📍 **Location** | Satna, Madhya Pradesh, India |
+| 🌍 **Open To** | Internships · Freelance Projects · Global Opportunities |
+| 📧 **Email** | ravivish968@gmail.com |
+| 🌐 **Portfolio** | [profileravi.netlify.app](https://profileravi.netlify.app) |
+
+</div>
+
+---
+
+### 💡 Who I Am
 
 I'm an **AI Engineer & Full-Stack Developer** passionate about building systems that don't just process data — they *understand* it. My work sits at the intersection of **Natural Language Processing**, **Agentic AI**, **Predictive Modeling**, and **User-Centric Product Design**.
 
 From engineering pipelines that handle **50,000+ records** to deploying **Transformer-based NLP models** that decode financial sentiment in real time — I build AI that is fast, accurate, and production-ready.
 
 > *"The goal isn't to show data. It's to reduce the time-to-insight."*
+
+---
+
+### 🎯 Current Focus
+
+> Building production-grade AI-powered financial intelligence platforms that bridge the gap between raw data and real decisions.
+
+**Core Areas:**
+
+- 🧠 **AI & NLP** — Transformer models, FinBERT, RAG pipelines, Agentic AI
+- 📊 **Data Engineering** — Real-time pipelines, 50,000+ record processing
+- 🌐 **Full-Stack Development** — React, FastAPI, Streamlit, REST APIs
+- ✍️ **Prompt Engineering** — Chain-of-Thought, Few-Shot, LLM behavior tuning
+
+---
+
+### 🏷️ My Roles
+
+| Role | Description |
+|------|-------------|
+| 🤖 **AI / ML Engineer** | Design and deploy intelligent models for real-world use cases |
+| 🧠 **Agentic AI Developer** | Build autonomous AI agents using LangChain & MCP |
+| 🌐 **Full-Stack Developer** | End-to-end web apps with clean, modern UI/UX |
+| 🔬 **NLP Specialist** | FinBERT · BERT · DistilBART · MNLI · Sentiment Analysis |
+| ⚙️ **AI Workflow Engineer** | Design scalable end-to-end AI data pipelines |
+| ✍️ **Prompt Engineer** | Craft precise prompts that maximize LLM performance |
 
 ---
 
@@ -360,19 +398,92 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 
 ## 📊 GitHub Performance (Statistics, Streak, Trophies)
 
+<!-- TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false" alt="Ravi's GitHub Streak">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Ravi's GitHub Stats">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
 </div>
 
+<br/>
 
+<!-- STATS + STREAK SIDE BY SIDE -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Ravi's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false" alt="Ravi's GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH — FULL WIDTH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&theme=react-dark&bg_color=0D1117&color=17A8B8&line=0F7B8C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- TOP CONTRIBUTED REPOS -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="60%" />
+</div>
+
+<br/>
+
+<!-- GITHUB PROFILE SUMMARY CARDS -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikumar-3481&theme=github_dark" alt="Profile Summary" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravikumar-3481&theme=github_dark" alt="Repos Per Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravikumar-3481&theme=github_dark" alt="Most Commit Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravikumar-3481&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
+</div>
+
+<br/>
+
+<!-- GITHUB STATS CARD (STATS ONLY) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravikumar-3481&theme=github_dark" alt="GitHub Stats Card" width="40%" />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION CALENDAR / HEATMAP -->
+<div align="center">
+  <h3>📅 GitHub Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/17A8B8/ravikumar-3481" alt="GitHub Contribution Chart" width="100%" />
+</div>
+
+<br/>
+
+<!-- GITHUB ISOMETRIC 3D CONTRIBUTION GRAPH -->
+<div align="center">
+  <h3>🧊 3D Contribution Graph</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ravikumar-3481&theme=dark&hide_border=false" alt="WakaTime Stats" width="60%" />
+</div>
+
+<br/>
+
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
