@@ -135,6 +135,84 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 
 ---
 
+## 📊 GitHub Performance (Statistics, Streak, Trophies)
+
+<!-- TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br/>
+
+<!-- STATS + STREAK SIDE BY SIDE -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Ravi's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false" alt="Ravi's GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<!-- TOP LANGUAGES -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH — FULL WIDTH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&theme=react-dark&bg_color=0D1117&color=17A8B8&line=0F7B8C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- TOP CONTRIBUTED REPOS -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="60%" />
+</div>
+
+<br/>
+
+<!-- GITHUB PROFILE SUMMARY CARDS -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikumar-3481&theme=github_dark" alt="Profile Summary" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravikumar-3481&theme=github_dark" alt="Repos Per Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravikumar-3481&theme=github_dark" alt="Most Commit Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravikumar-3481&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
+</div>
+
+<br/>
+
+<!-- GITHUB STATS CARD (STATS ONLY) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravikumar-3481&theme=github_dark" alt="GitHub Stats Card" width="40%" />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION CALENDAR / HEATMAP -->
+<div align="center">
+  <h3>📅 GitHub Contribution Calendar</h3>
+  <img src="https://ghchart.rshah.org/39d353/ravikumar-3481" alt="GitHub Contribution Chart" width="100%" style="background-color:#0d1117;" />
+</div>
+
+<br/>
+
+<!-- GITHUB ISOMETRIC 3D CONTRIBUTION GRAPH -->
+
+<div align="center">
+  <h3>🧊 3D Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title=GitHub%20Contribution%20Calendar" width="100%" alt="GitHub Contribution Calendar" /></div>
+  <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         EDUCATION                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -396,87 +474,7 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <!--                        GITHUB STATS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Performance (Statistics, Streak, Trophies)
 
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravikumar-3481&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
-</div>
-
-<br/>
-
-<!-- STATS + STREAK SIDE BY SIDE -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Ravi's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ravikumar-3481&theme=dark&hide_border=false" alt="Ravi's GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<!-- TOP LANGUAGES -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar-3481&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10" alt="Top Languages" width="50%" />
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH — FULL WIDTH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&theme=react-dark&bg_color=0D1117&color=17A8B8&line=0F7B8C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- TOP CONTRIBUTED REPOS -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ravikumar-3481&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="60%" />
-</div>
-
-<br/>
-
-<!-- GITHUB PROFILE SUMMARY CARDS -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikumar-3481&theme=github_dark" alt="Profile Summary" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravikumar-3481&theme=github_dark" alt="Repos Per Language" width="32%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravikumar-3481&theme=github_dark" alt="Most Commit Language" width="32%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravikumar-3481&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%" />
-</div>
-
-<br/>
-
-<!-- GITHUB STATS CARD (STATS ONLY) -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravikumar-3481&theme=github_dark" alt="GitHub Stats Card" width="40%" />
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION CALENDAR / HEATMAP -->
-<div align="center">
-  <h3>📅 GitHub Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/17A8B8/ravikumar-3481" alt="GitHub Contribution Chart" width="100%" />
-</div>
-
-<br/>
-
-<!-- GITHUB ISOMETRIC 3D CONTRIBUTION GRAPH -->
-<div align="center">
-  <h3>🧊 3D Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&bg_color=000000&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true" width="100%" alt="GitHub Contribution Calendar" /></div>
-
-<br/>
-<div align="center">
-  <h3>🧊 3D Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title=GitHub%20Contribution%20Calendar" width="100%" alt="GitHub Contribution Calendar" /></div>
-  <br/>
 
 <!-- ANIMATED CONTRIBUTION SNAKE -->
 <div align="center">
