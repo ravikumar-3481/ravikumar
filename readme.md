@@ -112,11 +112,6 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <br/>
 
 <!-- ACTIVITY GRAPH — FULL WIDTH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&theme=react-dark&bg_color=0D1117&color=17A8B8&line=0F7B8C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
 
 <!-- TOP CONTRIBUTED REPOS -->
 <div align="center">
@@ -158,6 +153,12 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <br/>
 
 <!-- GITHUB ISOMETRIC 3D CONTRIBUTION GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&theme=react-dark&bg_color=0D1117&color=17A8B8&line=0F7B8C&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
 
 <div align="center">
   <h3>📈 Contribution Graph</h3>
