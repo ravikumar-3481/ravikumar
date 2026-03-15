@@ -38,9 +38,9 @@
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=17A8B8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ravikumar-3481&color=17A8B8&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=1B3A6B&labelColor=0D1117&label=FOLLOWERS)
+![GitHub Followers](https://img.shields.io/github/followers/ravikumar-3481?style=for-the-badge&color=1B3A6B&labelColor=0D1117&label=FOLLOWERS)
 
 </div>
 
@@ -54,7 +54,6 @@
 
 <br/>
 
-### 🪪 Personal Info
 
 <div align="center">
 
@@ -75,9 +74,9 @@
 
 ---
 
-### 💡 Who I Am
+<h2>💡 Who I Am <h2/>
 
-I'm an **AI Engineer & Full-Stack Developer** passionate about building systems that don't just process data — they *understand* it. My work sits at the intersection of **Natural Language Processing**, **Agentic AI**, **Predictive Modeling**, and **User-Centric Product Design**.
+<h4>I'm an **AI Engineer & Full-Stack Developer** passionate about building systems that don't just process data — they *understand* it. My work sits at the intersection of **Natural Language Processing**, **Agentic AI**, **Predictive Modeling**, and **User-Centric Product Design**.<h4/>
 
 From engineering pipelines that handle **50,000+ records** to deploying **Transformer-based NLP models** that decode financial sentiment in real time — I build AI that is fast, accurate, and production-ready.
 
@@ -85,53 +84,9 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 
 ---
 
-### 🎯 Current Focus
+<br/>
 
-> Building production-grade AI-powered financial intelligence platforms that bridge the gap between raw data and real decisions.
-
-**Core Areas:**
-
-- 🧠 **AI & NLP** — Transformer models, FinBERT, RAG pipelines, Agentic AI
-- 📊 **Data Engineering** — Real-time pipelines, 50,000+ record processing
-- 🌐 **Full-Stack Development** — React, FastAPI, Streamlit, REST APIs
-- ✍️ **Prompt Engineering** — Chain-of-Thought, Few-Shot, LLM behavior tuning
-
----
-
-### 🏷️ My Roles
-
-| Role | Description |
-|------|-------------|
-| 🤖 **AI / ML Engineer** | Design and deploy intelligent models for real-world use cases |
-| 🧠 **Agentic AI Developer** | Build autonomous AI agents using LangChain & MCP |
-| 🌐 **Full-Stack Developer** | End-to-end web apps with clean, modern UI/UX |
-| 🔬 **NLP Specialist** | FinBERT · BERT · DistilBART · MNLI · Sentiment Analysis |
-| ⚙️ **AI Workflow Engineer** | Design scalable end-to-end AI data pipelines |
-| ✍️ **Prompt Engineer** | Craft precise prompts that maximize LLM performance |
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        WHAT I DO                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎯 What I Do
-
-<div align="center">
-
-| 🤖 AI / ML Developer | 🌐 Web Developer | 🧠 Agentic AI Developer |
-|:---:|:---:|:---:|
-| Building intelligent models for real-world use cases | Full-stack apps with modern UI/UX | Autonomous AI agents using LangChain & MCP |
-
-| ⚙️ AI Workflow Engineer | ✍️ Prompt Engineer | 🔬 NLP Specialist |
-|:---:|:---:|:---:|
-| Designing end-to-end AI data pipelines | Crafting precise prompts for LLM performance | FinBERT, BERT, DistilBART, MNLI & more |
-
-</div>
-
----
-
-## 📊 GitHub Performance (Statistics, Streak, Trophies)
+<h2>📊 GitHub Performance (Statistics, Streak, Trophies) <h2/>
 
 <!-- TROPHIES -->
 <div align="center">
@@ -208,6 +163,53 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
   <h3>📈 Contribution Graph</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title=GitHub%20Contribution%20Calendar" width="100%" alt="GitHub Contribution Calendar" /></div>
   <br/>
+
+### 🎯 Current Focus
+
+> Building production-grade AI-powered financial intelligence platforms that bridge the gap between raw data and real decisions.
+
+**Core Areas:**
+
+- 🧠 **AI & NLP** — Transformer models, FinBERT, RAG pipelines, Agentic AI
+- 📊 **Data Engineering** — Real-time pipelines, 50,000+ record processing
+- 🌐 **Full-Stack Development** — React, FastAPI, Streamlit, REST APIs
+- ✍️ **Prompt Engineering** — Chain-of-Thought, Few-Shot, LLM behavior tuning
+
+---
+
+### 🏷️ My Roles
+
+| Role | Description |
+|------|-------------|
+| 🤖 **AI / ML Engineer** | Design and deploy intelligent models for real-world use cases |
+| 🧠 **Agentic AI Developer** | Build autonomous AI agents using LangChain & MCP |
+| 🌐 **Full-Stack Developer** | End-to-end web apps with clean, modern UI/UX |
+| 🔬 **NLP Specialist** | FinBERT · BERT · DistilBART · MNLI · Sentiment Analysis |
+| ⚙️ **AI Workflow Engineer** | Design scalable end-to-end AI data pipelines |
+| ✍️ **Prompt Engineer** | Craft precise prompts that maximize LLM performance |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        WHAT I DO                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎯 What I Do
+
+<div align="center">
+
+| 🤖 AI / ML Developer | 🌐 Web Developer | 🧠 Agentic AI Developer |
+|:---:|:---:|:---:|
+| Building intelligent models for real-world use cases | Full-stack apps with modern UI/UX | Autonomous AI agents using LangChain & MCP |
+
+| ⚙️ AI Workflow Engineer | ✍️ Prompt Engineer | 🔬 NLP Specialist |
+|:---:|:---:|:---:|
+| Designing end-to-end AI data pipelines | Crafting precise prompts for LLM performance | FinBERT, BERT, DistilBART, MNLI & more |
+
+</div>
+
+---
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         EDUCATION                             -->
