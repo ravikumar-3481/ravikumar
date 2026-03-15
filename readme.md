@@ -164,6 +164,20 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikumar-3481&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&title=GitHub%20Contribution%20Calendar" width="100%" alt="GitHub Contribution Calendar" /></div>
   <br/>
 
+
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+---
+<br/>
+
+<br/>
 ### 🎯 Current Focus
 
 > Building production-grade AI-powered financial intelligence platforms that bridge the gap between raw data and real decisions.
@@ -473,17 +487,6 @@ From engineering pipelines that handle **50,000+ records** to deploying **Transf
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 
-
-<!-- ANIMATED CONTRIBUTION SNAKE -->
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        ACHIEVEMENTS                           -->
